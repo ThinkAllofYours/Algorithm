@@ -16,7 +16,7 @@
 <tr>
 <td>55</td>
 <td><a href="https://leetcode.com/problems/jump-game">Jump Game</a></td>
-<td><a href="Algorithm/C_Sharp/leetcode/55.JumpGame/Solution.cs">c#</a></td>
+<td><a href="Algorithm/C_Sharp/leetcode/55.JumpGame/Solution.cs">C#</a></td>
 <td>Medium</td>
 </tr>
 </tbody></table>
