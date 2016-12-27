@@ -28,7 +28,7 @@
 <tr>
 <td>389</td>
 <td><a href="https://leetcode.com/problems/find-the-difference/">Find the Difference</a></td>
-<td><a href="https://github.com/ThinkAllofYours/Algorithm/C_Sharp/leetcode/389.FindTheDifference">C#</a></td>
+<td><a href="https://github.com/ThinkAllofYours/Algorithm/tree/master/C_Sharp/leetcode/389.FindTheDifference">C#</a></td>
 <td>Easy</td>
 </tr>
 </tbody></table>
