@@ -14,9 +14,21 @@
 <td>Easy</td>
 </tr>
 <tr>
+<td>28</td>
+<td><a href="https://leetcode.com/problems/implement-strstr/">Implement strStr()</a></td>
+<td><a href="Algorithm/C_Sharp/leetcode/28.Implement strStr()/Solution.cs">C#</a></td>
+<td>Medium</td>
+</tr>
+<tr>
 <td>55</td>
 <td><a href="https://leetcode.com/problems/jump-game">Jump Game</a></td>
 <td><a href="Algorithm/C_Sharp/leetcode/55.JumpGame/Solution.cs">C#</a></td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>389</td>
+<td><a href="https://leetcode.com/problems/find-the-difference/">Find the Difference</a></td>
+<td><a href="Algorithm/C_Sharp/leetcode/389.FindTheDifference/Solution.cs">C#</a></td>
 <td>Medium</td>
 </tr>
 </tbody></table>
